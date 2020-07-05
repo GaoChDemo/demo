@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Main {
+public class TestTypeChange {
   private static int[] F = new int[] {0, 1, 1, 2, 3, 5, 8, 13, 21};
 
   public static void main(String[] args) {
