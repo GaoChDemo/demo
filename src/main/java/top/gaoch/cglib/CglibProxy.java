@@ -7,7 +7,7 @@ import org.springframework.cglib.proxy.MethodProxy;
 
 import java.lang.reflect.Method;
 
-public class cglibProxy implements MethodInterceptor {
+public class CglibProxy implements MethodInterceptor {
 
   private  Object targetObj;
 
